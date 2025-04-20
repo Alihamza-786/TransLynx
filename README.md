@@ -1,4 +1,4 @@
-In this project, we have data of Urdu language. Our task is to first convert Urdu audio into urdu text, we will build this algorithm from scratch and train our model on label data. Our corpus contains 50 different Urdu words.
+In this project, we have data of Urdu language. Our task is to first convert Urdu audio into urdu text, we will build this algorithm from scratch and train our model on label data. Our corpus contains 50 different Urdu words. The model is word-level.
 The Audio data contain of following 50 Urdu's words:
 
 1.  abbu	ابو
